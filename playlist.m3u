@@ -1,43 +1,58 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="RTLTVI.be" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/RTL_TVI_-_Logo_2017.svg/512px-RTL_TVI_-_Logo_2017.svg.png" group-title="🇧🇪 Belgique",RTL TVI
+#EXTINF:-1 tvg-id="RTLTVI.be" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/RTL_TVI_-_Logo_2017.svg/512px-RTL_TVI_-_Logo_2017.svg.png" group-title="🇫🇷 Français",RTL TVI
 https://tvi-live-hls.akamaized.net/hls/live/2038650/TVI-Live-HLS/master.m3u8
 
-#EXTINF:-1 tvg-id="Euronews.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Euronews_2022_alternative_logo.svg/512px-Euronews_2022_alternative_logo.svg.png" group-title="🇫🇷 Info Français",Euronews FR
+#EXTINF:-1 tvg-id="France24.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/france-24-fr.png" group-title="🇫🇷 Français",France 24 Français
+https://viamotionhsi.netplus.ch/live/eds/france24/browser-HLS8/france24.m3u8
+
+#EXTINF:-1 tvg-id="Euronews.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Euronews_2022_alternative_logo.svg/512px-Euronews_2022_alternative_logo.svg.png" group-title="🇫🇷 Français",Euronews FR
 https://euronews-live-fre-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6564/bitok/e/26032/euronews-fr.m3u8
-
-#EXTINF:-1 tvg-id="DWEnglish.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Deutsche_Welle_symbol_2012.svg/512px-Deutsche_Welle_symbol_2012.svg.png" group-title="🇬🇧 Info English",DW English
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-
-#EXTINF:-1 tvg-id="AlJazeeraArabic.qa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Aljazeera.svg/512px-Aljazeera.svg.png" group-title="🇸🇦 Info العربية",Al Jazeera العربية
-https://live-hls-web-aja.getaj.net/AJA/01.m3u8
-
-#EXTINF:-1 tvg-id="AlArabiya.ae" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Al-Arabiya_new_logo.svg/512px-Al-Arabiya_new_logo.svg.png" group-title="🇸🇦 Info العربية",Al Arabiya العربية
-https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AlJazeeraMubasher.qa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AJM_new_logo.svg/512px-AJM_new_logo.svg.png" group-title="🇸🇦 Info العربية",Al Jazeera Mubasher
-https://live-hls-web-ajm.getaj.net/AJM/01.m3u8
-
-#EXTINF:-1 tvg-id="RTArabic.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/RT_Arabic_logo.svg/512px-RT_Arabic_logo.svg.png" group-title="🇸🇦 Info العربية",RT Arabic
-https://rt-arb.rttv.com/live/rtarab/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TRTArabi.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/TRT_Arabi_logo.png/512px-TRT_Arabi_logo.png" group-title="🇸🇦 Info العربية",TRT Arabi
-https://tv-trtarabi.medya.trt.com.tr/master_720.m3u8
-
-#EXTINF:-1 tvg-id="TRTHaber.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/TRT_Haber_logo_%282019-%29.svg/512px-TRT_Haber_logo_%282019-%29.svg.png" group-title="🇹🇷 Info Türkçe",TRT Haber
-https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
-
-#EXTINF:-1 tvg-id="TRTWorld.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/TRT_World_logo.svg/512px-TRT_World_logo.svg.png" group-title="🇹🇷 Info Türkçe",TRT World
-https://tv-trtworld.medya.trt.com.tr/master_720.m3u8
-
-#EXTINF:-1 tvg-id="HalkTV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Halk_TV_logo_%282019-%29.svg/512px-Halk_TV_logo_%282019-%29.svg.png" group-title="🇹🇷 Info Türkçe",Halk TV
-https://halktv-live.daioncdn.net/halktv/halktv.m3u8
 
 #EXTINF:-1 tvg-id="TRTKurdi.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/TRT_Kurdi_logo_%282019-%29.svg/512px-TRT_Kurdi_logo_%282019-%29.svg.png" group-title="ك Kurde",TRT Kurdî
 https://tv-trtkurdi.medya.trt.com.tr/master_720.m3u8
 
 #EXTINF:-1 tvg-id="Rudaw.iq" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Rudaw_Media_Network_logo.svg/512px-Rudaw_Media_Network_logo.svg.png" group-title="ك Kurde",Rudaw TV
 https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Kurdistan24.iq" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/Kurdistan_24_Logo.png" group-title="ك Kurde",Kurdistan 24
+https://kurdistan24.kurdistan24.tv/hls/k24.m3u8
+
+#EXTINF:-1 tvg-id="KurdsatNews.iq" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Kurdsat_News_Logo.png/200px-Kurdsat_News_Logo.png" group-title="ك Kurde",Kurdsat News
+https://kurdsatnews-live.ercdn.net/kurdsatnews/kurdsatnews.m3u8
+
+#EXTINF:-1 tvg-id="AlJazeeraArabic.qa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Aljazeera.svg/512px-Aljazeera.svg.png" group-title="🇸🇦 العربية",Al Jazeera العربية
+https://live-hls-web-aja.getaj.net/AJA/01.m3u8
+
+#EXTINF:-1 tvg-id="AlArabiya.ae" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Al-Arabiya_new_logo.svg/512px-Al-Arabiya_new_logo.svg.png" group-title="🇸🇦 العربية",Al Arabiya العربية
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlJazeeraMubasher.qa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AJM_new_logo.svg/512px-AJM_new_logo.svg.png" group-title="🇸🇦 العربية",Al Jazeera Mubasher
+https://live-hls-web-ajm.getaj.net/AJM/01.m3u8
+
+#EXTINF:-1 tvg-id="RTArabic.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/RT_Arabic_logo.svg/512px-RT_Arabic_logo.svg.png" group-title="🇸🇦 العربية",RT Arabic
+https://rt-arb.rttv.com/live/rtarab/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TRTArabi.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/TRT_Arabi_logo.png/512px-TRT_Arabi_logo.png" group-title="🇸🇦 العربية",TRT Arabi
+https://tv-trtarabi.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-id="TRTHaber.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/TRT_Haber_logo_%282019-%29.svg/512px-TRT_Haber_logo_%282019-%29.svg.png" group-title="🇹🇷 Türkçe",TRT Haber
+https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-id="TRTWorld.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/TRT_World_logo.svg/512px-TRT_World_logo.svg.png" group-title="🇹🇷 Türkçe",TRT World
+https://tv-trtworld.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-id="HalkTV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Halk_TV_logo_%282019-%29.svg/512px-Halk_TV_logo_%282019-%29.svg.png" group-title="🇹🇷 Türkçe",Halk TV
+https://halktv-live.daioncdn.net/halktv/halktv.m3u8
+
+#EXTINF:-1 tvg-id="DWEnglish.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Deutsche_Welle_symbol_2012.svg/512px-Deutsche_Welle_symbol_2012.svg.png" group-title="🇬🇧 English",DW English
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+
+#EXTINF:-1 tvg-id="IranInternational.uk" tvg-logo="https://i.imgur.com/55RpaF3.png" group-title="🇮🇷 فارسی",Iran International
+https://live.iranintl.com/hls/live/2014153/iranintl/index.m3u8
+
+#EXTINF:-1 tvg-id="IranPress.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Iran_Press_logo.png/200px-Iran_Press_logo.png" group-title="🇮🇷 فارسی",Iran Press
+https://live.iranpress.com/hls/live/iranpress.m3u8
 
 #EXTINF:-1 tvg-id="RedBullTV.at" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Red_Bull_TV_logo.svg/512px-Red_Bull_TV_logo.svg.png" group-title="🌍 Découverte",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
