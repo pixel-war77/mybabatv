@@ -1,97 +1,46 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="RTLTVI.be" tvg-logo="https://i.imgur.com/2CimAAN.png" group-title="🇧🇪 Belgique",RTL TVI
+#EXTINF:-1 tvg-id="RTLTVI.be" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/RTL_TVI_-_Logo_2017.svg/512px-RTL_TVI_-_Logo_2017.svg.png" group-title="🇧🇪 Belgique",RTL TVI
 https://tvi-live-hls.akamaized.net/hls/live/2038650/TVI-Live-HLS/master.m3u8
 
-#EXTINF:-1 tvg-id="France24French.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/FRANCE_24_Logo.svg" group-title="🇫🇷 Info Français",France 24 Français
-https://static.france24.com/live/F24_FR_LO_HLS/live_ios.m3u8
+#EXTINF:-1 tvg-id="France24.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/france-24-fr.png" group-title="🇫🇷 Info Français",France 24 Français
+https://raw.githubusercontent.com/schumijo/iptv/main/playlists/francetv/france24.m3u8
 
-#EXTINF:-1 tvg-id="BFMTV.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bfm-tv-fr.png" group-title="🇫🇷 Info Français",BFM TV
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-id="Euronews.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Euronews_2022_alternative_logo.svg/512px-Euronews_2022_alternative_logo.svg.png" group-title="🇫🇷 Info Français",Euronews FR
+https://euronews-live-fre-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6564/bitok/e/26032/euronews-fr.m3u8
 
-#EXTINF:-1 tvg-id="CNews.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/c-news-fr.png" group-title="🇫🇷 Info Français",CNews
-https://raw.githubusercontent.com/schumijo/iptv/main/playlists/canalplus/cnews.m3u8
-
-#EXTINF:-1 tvg-id="LCI.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/lci-fr.png" group-title="🇫🇷 Info Français",LCI
-https://viamotionhsi.netplus.ch/live/eds/lci/browser-HLS8/lci.m3u8
-
-#EXTINF:-1 tvg-id="FranceInfo.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/franceinfo-fr.png" group-title="🇫🇷 Info Français",France Info
-https://raw.githubusercontent.com/schumijo/iptv/main/playlists/francetv/franceinfo.m3u8
-
-#EXTINF:-1 tvg-id="EuronewsFR.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/euronews-fr.png" group-title="🇫🇷 Info Français",Euronews Français
-https://rakuten-euronews-1-fr.samsung.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TV5Monde.fr" group-title="🇫🇷 Info Français",TV5 Monde
-https://tv5mondeeurope-tv5mondefbs.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="DWEnglish.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="🇬🇧 Info English",DW English
+#EXTINF:-1 tvg-id="DWEnglish.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Deutsche_Welle_symbol_2012.svg/512px-Deutsche_Welle_symbol_2012.svg.png" group-title="🇬🇧 Info English",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
-#EXTINF:-1 tvg-id="France24EN.fr" group-title="🇬🇧 Info English",France 24 English
-https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120684/france24english/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AlJazeeraEN.qa" group-title="🇬🇧 Info English",Al Jazeera English
-https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-
-#EXTINF:-1 tvg-id="EuronewsEN.fr" group-title="🇬🇧 Info English",Euronews English
-https://rakuten-euronews-1-gb.samsung.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AlJazeeraArabic.qa" tvg-logo="https://i.imgur.com/BB93NQP.png" group-title="🇸🇦 Info العربية",Al Jazeera العربية
+#EXTINF:-1 tvg-id="AlJazeeraArabic.qa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Aljazeera.svg/512px-Aljazeera.svg.png" group-title="🇸🇦 Info العربية",Al Jazeera العربية
 https://live-hls-web-aja.getaj.net/AJA/01.m3u8
 
-#EXTINF:-1 tvg-id="AlArabiya.ae" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Al-Arabiya_new_logo.svg/640px-Al-Arabiya_new_logo.svg.png" group-title="🇸🇦 Info العربية",Al Arabiya العربية
+#EXTINF:-1 tvg-id="AlArabiya.ae" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Al-Arabiya_new_logo.svg/512px-Al-Arabiya_new_logo.svg.png" group-title="🇸🇦 Info العربية",Al Arabiya العربية
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AlJazeeraMubasher.qa" group-title="🇸🇦 Info العربية",Al Jazeera Mubasher
+#EXTINF:-1 tvg-id="AlJazeeraMubasher.qa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AJM_new_logo.svg/512px-AJM_new_logo.svg.png" group-title="🇸🇦 Info العربية",Al Jazeera Mubasher
 https://live-hls-web-ajm.getaj.net/AJM/01.m3u8
 
-#EXTINF:-1 tvg-id="AlHadath.sa" group-title="🇸🇦 Info العربية",Al Hadath
-https://live.alarabiya.net/alarabia/alhadath.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="SkyNewsArabia.ae" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Sky_News_logo.svg/512px-Sky_News_logo.svg.png" group-title="🇸🇦 Info العربية",Sky News Arabia
-https://skynewsarabia-prod-dub-public.skynewsarabia.com/skynewsarabiapublishlive/skynewsarabia/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RTArabic.ru" group-title="🇸🇦 Info العربية",RT Arabic
+#EXTINF:-1 tvg-id="RTArabic.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/RT_Arabic_logo.svg/512px-RT_Arabic_logo.svg.png" group-title="🇸🇦 Info العربية",RT Arabic
 https://rt-arb.rttv.com/live/rtarab/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TRTArabi.tr" group-title="🇸🇦 Info العربية",TRT Arabi
+#EXTINF:-1 tvg-id="TRTArabi.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/TRT_Arabi_logo.png/512px-TRT_Arabi_logo.png" group-title="🇸🇦 Info العربية",TRT Arabi
 https://tv-trtarabi.medya.trt.com.tr/master_720.m3u8
 
-#EXTINF:-1 tvg-id="TRTHaber.tr" group-title="🇹🇷 Info Türkçe",TRT Haber
+#EXTINF:-1 tvg-id="TRTHaber.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/TRT_Haber_logo_%282019-%29.svg/512px-TRT_Haber_logo_%282019-%29.svg.png" group-title="🇹🇷 Info Türkçe",TRT Haber
 https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
 
-#EXTINF:-1 tvg-id="TRTWorld.tr" group-title="🇹🇷 Info Türkçe",TRT World
+#EXTINF:-1 tvg-id="TRTWorld.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/TRT_World_logo.svg/512px-TRT_World_logo.svg.png" group-title="🇹🇷 Info Türkçe",TRT World
 https://tv-trtworld.medya.trt.com.tr/master_720.m3u8
 
-#EXTINF:-1 tvg-id="HalkTV.tr" group-title="🇹🇷 Info Türkçe",Halk TV
+#EXTINF:-1 tvg-id="HalkTV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Halk_TV_logo_%282019-%29.svg/512px-Halk_TV_logo_%282019-%29.svg.png" group-title="🇹🇷 Info Türkçe",Halk TV
 https://halktv-live.daioncdn.net/halktv/halktv.m3u8
 
-#EXTINF:-1 tvg-id="TRT1.tr" group-title="🇹🇷 Turquie",TRT 1
-https://tv-trt1-dai.medya.trt.com.tr/master.m3u8
-
-#EXTINF:-1 tvg-id="TRT2.tr" group-title="🇹🇷 Turquie",TRT 2
-https://tv-trt2.medya.trt.com.tr/master_720.m3u8
-
-#EXTINF:-1 tvg-id="TRTTurk.tr" group-title="🇹🇷 Turquie",TRT Türk
-https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
-
-#EXTINF:-1 tvg-id="TRTAvaz.tr" group-title="🇹🇷 Turquie",TRT Avaz
-https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
-
-#EXTINF:-1 tvg-id="TRTBelgesel.tr" group-title="🇹🇷 Turquie",TRT Belgesel
-https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
-
-#EXTINF:-1 tvg-id="TRTMuzik.tr" group-title="🇹🇷 Turquie",TRT Müzik
-https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
-
-#EXTINF:-1 tvg-id="TRTKurdi.tr" group-title="ك Kurde",TRT Kurdî
+#EXTINF:-1 tvg-id="TRTKurdi.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/TRT_Kurdi_logo_%282019-%29.svg/512px-TRT_Kurdi_logo_%282019-%29.svg.png" group-title="ك Kurde",TRT Kurdî
 https://tv-trtkurdi.medya.trt.com.tr/master_720.m3u8
 
-#EXTINF:-1 tvg-id="Rudaw.iq" group-title="ك Kurde",Rudaw TV
+#EXTINF:-1 tvg-id="Rudaw.iq" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Rudaw_Media_Network_logo.svg/512px-Rudaw_Media_Network_logo.svg.png" group-title="ك Kurde",Rudaw TV
 https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RedBullTV.at" group-title="🌍 Découverte",Red Bull TV
+#EXTINF:-1 tvg-id="RedBullTV.at" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Red_Bull_TV_logo.svg/512px-Red_Bull_TV_logo.svg.png" group-title="🌍 Découverte",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
-
-#EXTINF:-1 tvg-id="NASATV.us" group-title="🌍 Découverte",NASA TV
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
