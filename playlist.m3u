@@ -1,5 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="France24EN" tvg-name="France 24 English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/FRANCE_24_Logo.svg" group-title="News",France 24 English
-https://live.france24.com/hls/live/2037179/F24_EN_HI_HLS/master.m3u8
-#EXTINF:-1 tvg-id="AlJazeeraEN" tvg-name="Al Jazeera English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Aljazeera_eng.svg" group-title="News",Al Jazeera English
-https://live-hls-web-aja.getaj.net/AJA/index.m3u8
+#EXTINF:-1 tvg-id="France24.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/FRANCE_24_Logo.svg" group-title="News",France 24 English
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120684/france24english/playlist.m3u8
+#EXTINF:-1 tvg-id="France24.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/FRANCE_24_Logo.svg" group-title="News",France 24 Français
+https://static.france24.com/live/F24_FR_LO_HLS/live_ios.m3u8
+#EXTINF:-1 tvg-id="EuronewsEnglish.fr" group-title="News",Euronews English
+https://euronews-euronews-english-2-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="DWEnglish.de" group-title="News",DW English
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 tvg-id="BloombergTV.us" group-title="News",Bloomberg TV
+https://bloomberg.com/media-manifest/streams/us.m3u8
